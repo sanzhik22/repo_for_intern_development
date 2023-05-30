@@ -33,4 +33,4 @@ I am a Full Stack Data Engineer from Kazakhstan <img src="https://media.giphy.co
 ---
 
 ### :fire: My Stats :
-[![Meiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikanebu&count_private=true&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Meiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikanebu&count_private=true&hide=stars&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
