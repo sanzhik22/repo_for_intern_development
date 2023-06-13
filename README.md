@@ -1,15 +1,13 @@
 ### :man_technologist: About Me :
-I am a Full Stack Data Engineer from Kazakhstan(change) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I anm data junor data engineer in PDM .
 
-- :telescope: I’m working as a Data Engineer.
+- :movie_camera: I love watching movie.
 
-- :seedling: Exploring devops tools.
+- :snake: Exploring Python.
 
-- :zap: In my free time, I contribute to open-source data platforms.
+- :sunrise_over_mountains: My hobbie is camping.
 
-- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/meiran-zhiyenbayev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+- :mailbox:How to reach me:  anapiyaevs0519@gmail.com
 
 ---
 
@@ -34,3 +32,4 @@ I am a Full Stack Data Engineer from Kazakhstan(change) <img src="https://media.
 
 ### :fire: My Stats :
 [![Meiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikanebu&count_private=true&hide=stars&show_icons=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
