@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-I am a Full Stack Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Full Stack Data Engineer from Kazakhstan(change) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - :telescope: I’m working as a Data Engineer.
 
